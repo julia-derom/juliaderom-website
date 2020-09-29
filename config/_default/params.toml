@@ -3,9 +3,9 @@
 
 # Color theme.
 #   Choose from `default`, `ocean`, `forest`, `dark`, `apogee`, `1950s`, `coffee`, `cupcake`, `strawberry`.
-color_theme = "apogee"
+color_theme = "ocean"
 # Enable users to switch between day and night mode?
-day_night = false
+day_night = true
 
 # Font style.
 #   Choose from `default`, `classic`, or `playfair`.
@@ -37,7 +37,7 @@ math = false
 # Privacy pack
 #   Show a cookie consent message to visitors
 #   Anonymize IP in Google Analytics (if enabled)
-privacy_pack = false
+privacy_pack = true
 
 # Date and time format (refer to https://sourcethemes.com/academic/docs/customization/#date-format )
 #   Examples: "Mon, Jan 2, 2006" or "2006-01-02"

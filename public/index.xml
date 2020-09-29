@@ -2,77 +2,86 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Julia de Romémont</title>
-    <link>/</link>
+    <link>/juliaderomemont.netlify.app/</link>
     <description>Recent content on Julia de Romémont</description>
     <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;copy; Julia de Romémont {year}</copyright>
     <lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
     
-	    <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="/juliaderomemont.netlify.app/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Slides</title>
-      <link>/slides/</link>
+      <link>/juliaderomemont.netlify.app/slides/</link>
       <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
       
-      <guid>/slides/</guid>
+      <guid>/juliaderomemont.netlify.app/slides/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Privacy Policy</title>
-      <link>/privacy/</link>
+      <link>/juliaderomemont.netlify.app/privacy/</link>
       <pubDate>Thu, 28 Jun 2018 00:00:00 +0100</pubDate>
       
-      <guid>/privacy/</guid>
+      <guid>/juliaderomemont.netlify.app/privacy/</guid>
       <description>&lt;p&gt;&amp;hellip;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Projects</title>
-      <link>/project/</link>
+      <link>/juliaderomemont.netlify.app/project/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>/project/</guid>
+      <guid>/juliaderomemont.netlify.app/project/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/juliaderomemont.netlify.app/home/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/juliaderomemont.netlify.app/home/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Courses</title>
-      <link>/courses/</link>
+      <link>/juliaderomemont.netlify.app/courses/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/courses/</guid>
+      <guid>/juliaderomemont.netlify.app/courses/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Posts</title>
-      <link>/post/</link>
+      <link>/juliaderomemont.netlify.app/post/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/post/</guid>
+      <guid>/juliaderomemont.netlify.app/post/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Publications</title>
-      <link>/publication/</link>
+      <link>/juliaderomemont.netlify.app/publication/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/publication/</guid>
+      <guid>/juliaderomemont.netlify.app/publication/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Recent &amp; Upcoming Talks</title>
-      <link>/talk/</link>
+      <link>/juliaderomemont.netlify.app/talk/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/talk/</guid>
+      <guid>/juliaderomemont.netlify.app/talk/</guid>
       <description></description>
     </item>
     
