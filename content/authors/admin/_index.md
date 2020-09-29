@@ -22,7 +22,7 @@ name: Julia de Romémont
 organizations:
 - name: Department of Political Science, University College London
   url: ""
-role: Teaching Fellow in Quantitative Methods
+role: Teaching Fellow in Quantitative Methods & QStep
 
 social:
 - icon: envelope
@@ -31,9 +31,9 @@ social:
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/julia2romemont/
-- icon: github
-  icon_pack: fab
-  link: https://github.com/julia-derom/ 
+# - icon: github
+#   icon_pack: fab
+#   link: https://github.com/julia-derom/ 
 superuser: true
 ---
 I am a Teaching Fellow in Quantitative Methods and Q-Step at the Department of Political Science at UCL and a PhD candidate in Political Science at the University of Oxford, Nuffield College. 
