@@ -1,10 +1,8 @@
 ---
 authors:
 - admin
-btn:
-- label: Download Resume
-  url: files/cv.pdf
-display_education: true
+
+display_education: false
 education:
   courses:
   - course: PhD in Political Science
@@ -19,11 +17,7 @@ education:
     institution: Universität Konstanz, Germany
     year: 2014
     
-email: ""
-# interests:
-# - Artificial Intelligence
-# - Computational Linguistics
-# - Information Retrieval
+
 name: Julia de Romémont
 organizations:
 - name: Department of Political Science, University College London
@@ -36,16 +30,12 @@ social:
   link: 'mailto:j.romemont@ucl.ac.uk'  
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/julia2romemont
+  link: https://twitter.com/julia2romemont/
 - icon: github
   icon_pack: fab
-  link: https://github.com/julia-derom
+  link: https://github.com/julia-derom/ 
 superuser: true
-user_groups:
-- Researchers
-- Visitors
 ---
 I am a Teaching Fellow in Quantitative Methods and Q-Step at the Department of Political Science at UCL and a PhD candidate in Political Science at the University of Oxford, Nuffield College. 
 
-My research interests 
 
