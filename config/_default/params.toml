@@ -9,7 +9,7 @@ day_night = false
 
 # Font style.
 #   Choose from `default`, `classic`, or `playfair`.
-font = "classic"
+font = "default"
 
 # Description for social sharing and search engines. If undefined, superuser role is used in place.
 description = ""
@@ -134,7 +134,7 @@ sharing = true
   #   3: Card
   #   4: Citation (publications only)
   post_view = 3
-  publication_view = 3
+  publication_view = 1
   talk_view = 2
 
 # Search.

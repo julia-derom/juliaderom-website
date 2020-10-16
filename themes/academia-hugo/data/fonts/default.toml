@@ -2,14 +2,15 @@
 name = "Default"
 
 # Optional Google font URL
-google_fonts = "Open+Sans:400,700|Roboto:400,400italic,700|Roboto+Mono"
+
+google_fonts = "https://fonts.googleapis.com/css2?family=Roboto:400,700|Roboto+Mono|Roboto+Condensed:wght@300;400;700&display=swap"
 
 # Font families
-heading_font = "Open Sans"
-body_font = "Roboto"
-nav_font = "Roboto"
+heading_font = "Roboto Condensed"
+body_font = "Roboto Condensed Light"
+nav_font = "Roboto Condensed Bold"
 mono_font = "Roboto Mono"
 
 # Font size
 font_size = "20"
-font_size_small = "16"
+font_size_small = "10"

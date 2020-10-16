@@ -6,7 +6,7 @@ display_education: false
 education:
   courses:
   - course: PhD in Political Science
-    institution: Nuffield College, University of Oxford, UL
+    institution: Nuffield College, University of Oxford, UK
   - course: Visiting Doctoral Student
     institution: Centre for European Studies and Comparative Politics, Sciences Po Paris, France
     year: 2018
@@ -19,10 +19,9 @@ education:
     
 
 name: Julia de Romémont
-organizations:
-- name: Department of Political Science, University College London
-  url: ""
-role: Teaching Fellow in Quantitative Methods & QStep
+# organizations:
+# - name: Department of Political Science, University College London
+#   url: ""
 
 social:
 - icon: envelope
@@ -36,6 +35,10 @@ social:
 #   link: https://github.com/julia-derom/ 
 superuser: true
 ---
-I am a Teaching Fellow in Quantitative Methods and Q-Step at the Department of Political Science at UCL and a PhD candidate in Political Science at the University of Oxford, Nuffield College. 
+I am an Assistant Lecturer in Quantitative Methods and Q-Step at the Department of Political Science at UCL and a PhD candidate in Political Science at the University of Oxford, Nuffield College. 
+
+In my research, I am particularly interested in the tension between the material and social calculus of individuals underpinning support for the welfare state. 
+
+
 
 
