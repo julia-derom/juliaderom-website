@@ -37,7 +37,7 @@ superuser: true
 ---
 I am an Assistant Lecturer in Quantitative Methods and Q-Step at the Department of Political Science at UCL and a PhD candidate in Political Science at the University of Oxford, Nuffield College. 
 
-In my research, I am particularly interested in the tension between the material and social calculus of individuals underpinning support for the welfare state. 
+My research interests lie primarily in the consequences of inequality and social heterogeneity for public support for the welfare state. 
 
 
 
